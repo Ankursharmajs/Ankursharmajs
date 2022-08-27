@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankur Sharma
-- 👀 I’m interested in programming, editing, UI designing
+- 👀 I’m interested in programming, editing, UI designing, develop new interfaces
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on challenging and fascinating coding projects 
 - 📫 How to reach me ankurgithub13@gmail.com 
